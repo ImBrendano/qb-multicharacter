@@ -9,6 +9,7 @@ INSTALL
 
 delete original qb-multicharacter and replace with this. (make sure your folder is named "qb-multicharacter")
 designed by marcostom32 and updated by itsbrendan#5279
+You can change the banner image by replacing qb-pixel.png with a png with the same name.
 
 # Simple cool design for qb-multicharacter
 Preview:
