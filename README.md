@@ -3,7 +3,10 @@ qb-multicharacter design updated for newest qbcore (Date of update: 01.27.2025)
 
 I hate red and the register inputs and buttons were way off, 
 so I spent a few hours making it blue and fixing all the scaling / display ratio issues with the character register form.
+
+
 INSTALL
+
 delete original qb-multicharacter and replace with this. (make sure your folder is named "qb-multicharacter")
 designed by marcostom32 and updated by itsbrendan#5279
 
