@@ -1,11 +1,15 @@
 # qb-multicharacter
-qb-multicharacter design updated for newest qbcore (Date of update: 25.05.2023)
+qb-multicharacter design updated for newest qbcore (Date of update: 01.27.2025)
 
-Updated by Metalholt#1942
+I hate red and the register inputs and buttons were way off, 
+so I spent a few hours making it blue and fixing all the scaling / display ratio issues with the character register form.
+INSTALL
+delete original qb-multicharacter and replace with this. (make sure your folder is named "qb-multicharacter")
+designed by marcostom32 and updated by itsbrendan#5279
 
 # Simple cool design for qb-multicharacter
 Preview:
-Video: https://streamable.com/kxes0c
+Video: [https://streamable.com/ic411k]
 
 Images:
 ![](https://cdn.discordapp.com/attachments/797581154315927573/913605200894390322/unknown.png)
@@ -13,7 +17,7 @@ Images:
 ![](https://cdn.discordapp.com/attachments/797581154315927573/913605989880692827/unknown.png)
 
 
-# Also you have the qb-spawn design
+# Also you have the qb-spawn design (didn't update or try to use)
 
 https://github.com/marcostom32/qb-spawn
 
