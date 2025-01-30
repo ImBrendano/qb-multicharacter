@@ -13,15 +13,15 @@ You can change the banner image by replacing qb-pixel.png with a png with the sa
 
 # Simple cool design for qb-multicharacter
 Preview:
-Video: [https://streamable.com/ic411k]
+Video: [https://streamable.com/slb9ze]
 
 Images:
 ![](https://cdn.discordapp.com/attachments/797581154315927573/913605200894390322/unknown.png)
 ![](https://cdn.discordapp.com/attachments/797581154315927573/913605260491231252/unknown.png)
 ![](https://cdn.discordapp.com/attachments/797581154315927573/913605989880692827/unknown.png)
 
-
-# Also you have the qb-spawn design (didn't update or try to use)
+Original Creator: [https://github.com/marcostom32]
+# his red qb-spawn design (didn't update or try to use)
 
 https://github.com/marcostom32/qb-spawn
 
