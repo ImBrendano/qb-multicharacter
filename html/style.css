@@ -115,7 +115,7 @@
 .topbar {
     --angle: 0deg;
     position: absolute;
-    background-color: rgb(0 0 0 / 85%);
+    background-color: rgba(0, 0, 0, 0.85);
     top: 100%;
     left: -5%;
     width: 110%;
@@ -135,7 +135,7 @@
 .bottombar {
     --angle: 0deg;
     position: absolute;
-    background-color: rgb(0 0 0 / 85%);
+    background-color: rgba(0, 0, 0, 0.85);
     top:50%;
     left: -5%;
     width: 110%;
@@ -169,7 +169,7 @@
     left: 14%;
     top: -40%;
     overflow: visible !important;
-    background-color: rgb(15 0 0 / 85%);
+    background-color: rgba(0, 7, 15, 0.85);
     border-radius: .8vh;
     padding: 30px;
     border-top: 0.5px solid;
@@ -177,7 +177,7 @@
     border-left: 1px solid;
     border-right: 1px solid;
     overflow: visible !important;
-    box-shadow: 0 0 30px rgb(30 0 0 / 98%) !important;
+    box-shadow: 0 0 30px rgba(0, 17, 30, 0.98) !important;
     border-image: linear-gradient(var(--angle), #1461dc,#c3252500,#c3252500,#c3252500,#1461dc) 1;
     animation: 20s rotate linear infinite,shake-slow2 10s ease-in-out infinite,gradient 15s ease infinite;
     background: linear-gradient(-45deg, #1c2835a1, #101c2bab,#051427a6,#081b2ca1,#021629b0);
@@ -342,7 +342,7 @@
 #play:hover {
     animation:0.4s rotate linear infinite,gradient 15s ease infinite;
     border-radius: .6vh;
-    border:3px solid black;
+    border:3px solid rgb(0, 0, 0);
     transition: 0.2s;
     box-shadow: 0 0 10px #006aff !important;
     overflow: visible !important;
@@ -370,7 +370,7 @@
 #delete:hover {
     animation:0.4s rotate linear infinite,gradient 15s ease infinite,blinkxd 3s ease-in-out infinite;
     border-radius: .6vh;
-    border:3px solid black;
+    border:3px solid rgb(0, 0, 0);
     transition: 0.2s;
     box-shadow: 0 0 10px #0084ff !important;
     overflow: visible !important;
@@ -575,7 +575,7 @@
     margin-bottom: 20px;
     animation:3s rotate linear infinite,gradient 15s ease infinite;
     border-radius: .6vh;
-    border:2px solid black;
+    border:2px solid rgb(0, 0, 0);
     transition: 0.2s;
     box-shadow: 0 0 20px #0084ff !important;
     overflow: visible !important;
