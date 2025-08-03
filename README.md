@@ -1,3 +1,6 @@
+Buy Me a Coffee? Thanks :>
+https://ko-fi.com/imbrendano
+
 # qb-multicharacter
 qb-multicharacter design updated for newest qbcore (Date of update: 01.27.2025)
 
